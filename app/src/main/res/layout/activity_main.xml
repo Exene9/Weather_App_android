@@ -1,0 +1,22 @@
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/introLayout"
+        layout="@layout/intro" />
+
+    <include layout="@layout/ac" android:id="@+id/acLayout" android:visibility="gone" />
+
+    <!-- Add RecyclerView layout -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"/>
+
+
+</FrameLayout>

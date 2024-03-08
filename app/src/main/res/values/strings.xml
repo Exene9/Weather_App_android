@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="now">Now In</string>
+    <string name="settings_button_description">Settings</string>
+    <string name="feels_like_temperature">Feels like %1$.1f°C</string>
+    <string name="min_max_temperature">Min: %1$.1f°C, Max: %2$.1f°C</string>
+    <string name="humidity">Humidity %1$d%%</string>
+    <string name="wind_speed">Wind %1$.1f km/h</string>
+    <string name="sunrise_time">%1$s</string>
+    <string name="sunset_time">%1$s</string>
+    <string name="save">Save Data </string>
+    <string name="Enter">Enter a City </string>
+    <string name="search">Forecast </string>
+    <string name="eng">English </string>
+    <string name="esp">Spanish </string>
+    <string name="por">Portuguese </string>
+    <string name="lang">Choose a language </string>
+    <string name="set">Language </string>
+    <string name="metric">Metric</string>
+    <string name="imperial">Imperial</string>
+    <string name="invalid">Not a valid city</string>
+    <string name="load">Load Data </string>
+    <string name="correct">Data Has Been Saved </string>
+    <string name="error">Error: The data list is empty </string>
+</resources>

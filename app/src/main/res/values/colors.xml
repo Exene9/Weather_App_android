@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Dark Theme Colors -->
+    <color name="darkBackground">#121212</color>
+    <color name="darkTextPrimary">#FFFFFF</color>
+    <color name="darkTextSecondary">#757575</color>
+    <color name="darkAccent">#2196F3</color>
+    <color name="darkStatusBar">#000000</color>
+    <color name="darkNavigationBar">#000000</color>
+
+    <!-- Light Theme Colors -->
+    <color name="lightBackground">#FFFFFF</color>
+    <color name="lightTextPrimary">#212121</color>
+    <color name="lightTextSecondary">#757575</color>
+    <color name="lightAccent">#2196F3</color>
+    <color name="lightStatusBar">#FFFFFF</color>
+    <color name="lightNavigationBar">#FFFFFF</color>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplicativo do Tempo</string>
+    <string name="now">Agora em</string>
+    <string name="settings_button_description">Configurações</string>
+    <string name="feels_like_temperature">Sensação térmica de %1$.1f°C</string>
+    <string name="min_max_temperature">Mínima: %1$.1f°C, Máxima: %2$.1f°C</string>
+    <string name="humidity">Umidade %1$d%%</string>
+    <string name="wind_speed">Vento %1$.1f km/h</string>
+    <string name="sunrise_time"> %1$s</string>
+    <string name="sunset_time"> %1$s</string>
+    <string name="save">Salvar Cidade</string>
+    <string name="Enter">Digite uma Cidade</string>
+    <string name="search">Previsão</string>
+    <string name="eng">Inglês</string>
+    <string name="esp">Espanhol</string>
+    <string name="por">Português</string>
+    <string name="lang">Escolha um idioma </string>
+    <string name="set">Idioma </string>
+    <string name="metric">Métrico</string>
+    <string name="imperial">Imperial</string>
+    <string name="invalid">Não é uma cidade válida</string>
+    <string name="load">Carregar dados </string>
+    <string name="correct">Os dados foram salvos </string>
+    <string name="error">Erro: A lista de dados está vazia</string>
+
+</resources>

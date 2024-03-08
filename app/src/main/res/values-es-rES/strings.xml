@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pronóstico del tiempo</string>
+    <string name="now">Ahora en</string>
+    <string name="settings_button_description">Ajustes</string>
+    <string name="feels_like_temperature">Sensación Térmica %1$.1f°C</string>
+    <string name="min_max_temperature">Min: %1$.1f°C, Max: %2$.1f°C</string>
+    <string name="humidity">Humedad %1$d%%</string>
+    <string name="wind_speed">Rafagas %1$.1f km/h</string>
+    <string name="sunrise_time"> %1$s</string>
+    <string name="sunset_time"> %1$s</string>
+    <string name="save">Guardar Ciudad </string>
+    <string name="Enter">Escriba Una Ciudad </string>
+    <string name="search">Pronostico </string>
+    <string name="eng">Ingles </string>
+    <string name="esp">Español </string>
+    <string name="por">Portugues </string>
+    <string name="lang">Elige Un idioma </string>
+    <string name="set">Idioma </string>
+    <string name="metric">Metrico </string>
+    <string name="imperial">Imperial </string>
+    <string name="invalid">No es una Ciudad Valida </string>
+    <string name="load">Cargar Datos </string>
+    <string name="correct">Los Datos Han Sido Guardados </string>
+    <string name="error">Error: La lista de datos está vacía</string>
+
+</resources>
